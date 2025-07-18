@@ -60,5 +60,5 @@
 
 ---
 
-<p align="center"><i>“Keep learning. Keep building. Stay curious.”</i></p>
+<p align="center"><i>“Building smart, designing better, learning always.”</i></p>
 
