@@ -69,12 +69,7 @@
   <a href="https://www.instagram.com/sweedel_rodrigues/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
 
-## 🌐 Portfolio
-🚧 *Coming Soon!* 🚧
-
----
 
 <p align="center"><i>“Building smart, designing better, learning always.”</i></p>
 
