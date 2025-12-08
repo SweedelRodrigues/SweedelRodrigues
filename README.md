@@ -94,8 +94,6 @@
 
 <br>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SweedelRodrigues&theme=tokyonight)
-
 </div>
 
 <br>
@@ -156,10 +154,6 @@
 
 <br>
 
-### 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=SweedelRodrigues&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling" width="100%">
 
