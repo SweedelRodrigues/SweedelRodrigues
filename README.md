@@ -1,75 +1,53 @@
-<h1 align="center">Hi, I'm Sweedel Rodrigues 👋</h1>
+## 👋 Hi, I'm Sweedel Rodrigues
 
-<p align="center">
-🌐 Tech Enthusiast | 💻 Full Stack Learner | 🎨 Design Lover | 🤖 AI/ML Curious
-</p>
+I’m a **3rd-year Information Science & Engineering undergraduate** at  
+**Dayananda Sagar College of Engineering (DSCE)**.
 
----
-
-## 💡 About Me
-
-- 🎓 Engineering student in Information Science @ DSCE, Bangalore  
-- 🌱 Currently learning Full Stack Web Development (MERN, PHP, SQL)  
-- 🤖 Exploring AI/ML and real-world applications  
-- 🎨 I enjoy crafting clean and intuitive UI/UX experiences  
-- 🚀 Always curious. Always building!
+I work across **MERN Stack Development, Artificial Intelligence / Machine Learning, and Data Structures & Algorithms**, with a strong focus on learning through hands-on projects and practical implementation.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages & Tools
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white&style=for-the-badge)
-
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-
+### 🚀 What I'm Currently Working On
+- AI/ML projects using real-world datasets  
+- Full-stack web applications using the **MERN stack**  
+- Strengthening problem-solving skills through consistent **DSA practice**
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SweedelRodrigues&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SweedelRodrigues&theme=tokyonight" width="47%" />
-</p>
+### 🧠 Areas of Interest
+- MERN Stack Web Development  
+- Artificial Intelligence & Machine Learning  
+- Data Structures & Algorithms  
+- Application Development  
+- Project-driven learning
 
 ---
 
-## 📫 Connect With Me
+### 🛠️ Tech Stack 
+- **Languages:** Python, Java, C/C++  
+- **Web:** MongoDB, Express.js, React, Node.js  
+- **AI/ML:** NumPy, Pandas, Scikit-learn  
+- **Tools:** Git, GitHub, VS Code, Android Studio
 
-<p align="center">
-  <a href="mailto:sweedel171@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sweedel-rodrigues-15a2472a2/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/sweedel_rodrigues/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+---
 
+### 📱 App Development
+I have built a few mobile applications as part of academic and personal projects, which sparked my interest in app development. I am gradually exploring mobile technologies while strengthening my core software fundamentals.
 
+---
 
-<p align="center"><i>“Building smart, designing better, learning always.”</i></p>
+### 🎨 Beyond Tech
+Apart from technology, I enjoy **crafting art and handmade creations**, which helps me think creatively and patiently. I also have a strong passion for **dance** and enjoy expressing myself through movement, even though I practice it informally.
 
+---
+
+### 📌 Currently Learning
+- Machine Learning fundamentals & model evaluation  
+- Writing clean, modular, and maintainable code  
+- Improving algorithmic thinking and efficiency through DSA
+
+---
+
+### 🤝 Connect With Me
+- LinkedIn: [linkedin.com/in/sweedel-rodrigues](https://www.linkedin.com/in/sweedel-rodrigues)  
+- Email: [sweedel171@gmail.com](mailto:sweedel171@gmail.com)
