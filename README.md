@@ -7,11 +7,7 @@
 ### 🎓 3rd Year Information Science & Engineering Student
 **Dayananda Sagar College of Engineering (DSCE)**
 
-<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sweedel-rodrigues)
-[![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweedel171@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SweedelRodrigues)
 
 </div>
 
@@ -51,51 +47,6 @@
 
 <div align="center">
 
-## 💼 What I'm Working On
-
-</div>
-
-<br>
-
-<table align="center" width="90%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Current Projects
-
-<br>
-
-🤖 **AI/ML Projects** - Working with real-world datasets to build practical machine learning models
-
-🌐 **MERN Applications** - Developing full-stack web apps with modern technologies
-
-💻 **DSA Practice** - Daily problem-solving to sharpen algorithmic thinking
-
-📱 **Mobile Development** - Exploring app development and user experience design
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Learning Journey
-
-<br>
-
-🧠 **Machine Learning** - Model evaluation, hyperparameter tuning, and deployment strategies
-
-✨ **Clean Code** - Writing maintainable, scalable, and testable codebases
-
-📊 **Advanced Algorithms** - Mastering data structures and optimization techniques
-
-🚀 **System Integration** - Deploying ML models into production web applications
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## 🛠️ Tech Stack & Tools
 
 <br>
@@ -123,7 +74,7 @@
 
 <br>
 
-### 🤖 AI/ML & Data Science
+### 🤖 AI/ML
 
 <br>
 
@@ -158,7 +109,7 @@
 
 <br>
 
-🎯 **Internships** | 🤝 **Collaborations** | 🌟 **Open Source Contributions** | 💼 **Freelance Projects**
+🎯 **Internships** | 🌟 **Open Source Contributions**
 
 <br>
 <br>
@@ -179,7 +130,5 @@
 ### ⭐ *"Creativity fuels innovation. Code is just the medium."* ⭐
 
 <br>
-
-**Made with 💙 by [Sweedel Rodrigues](https://github.com/SweedelRodrigues)**
 
 </div>
