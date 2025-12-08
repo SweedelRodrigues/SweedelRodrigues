@@ -78,23 +78,23 @@
 
 <br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SweedelRodrigues&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SweedelRodrigues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-</p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/api?user=SweedelRodrigues&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF)
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweedelRodrigues&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10&card_width=445" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SweedelRodrigues&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true&height=300" alt="Contribution Graph" width="49%" />
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SweedelRodrigues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SweedelRodrigues&theme=tokyonight" alt="Profile Summary" width="98%" />
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SweedelRodrigues&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10)
+
+<br>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SweedelRodrigues&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true&hide_title=true)
+
+<br>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SweedelRodrigues&theme=tokyonight)
 
 </div>
 
@@ -156,6 +156,10 @@
 
 <br>
 
+### 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=SweedelRodrigues&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling" width="100%">
 
