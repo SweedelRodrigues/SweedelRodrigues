@@ -21,12 +21,14 @@
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-👋 Hi, I'm **Sweedel** — an AI/ML Engineer who enjoys making machines learn from data better than humans can.
-
-- 🔭 Working on **3D Reconstruction** & **AI-powered apps**
-- 🌱 Learning **RAG**, **Multi-view Geometry** & **System Design**
-- 💬 Ask me about **Computer Vision** or **MERN + Flask**
-- 🤝 Open to collaborate on **AI/ML** & **full-stack** projects
+```python
+class Sweedel:
+    role        = "AI/ML Engineer"
+    focus       = ["Computer Vision", "3D Reconstruction", "RAG"]
+    learning    = ["Multi-view Geometry", "System Design"]
+    collab      = "Always open — let's build something cool 🚀"
+    fun_fact    = "I make machines see the world 👁️"
+```
 
 <br clear="right"/>
 
@@ -94,20 +96,6 @@ Built a 3D reconstruction pipeline from multi-view images using geometric segmen
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SweedelRodrigues&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SweedelRodrigues/SweedelRodrigues/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SweedelRodrigues/SweedelRodrigues/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SweedelRodrigues/SweedelRodrigues/output/github-snake.svg" />
-</picture>
 
 </div>
 
