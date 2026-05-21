@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sweedel%20Rodrigues&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+sees+the+world+%F0%9F%94%AD;3D+Reconstruction+%7C+YOLO+%7C+RAG;Full-Stack+%2B+Machine+Learning+%F0%9F%A7%A0;Published+IEEE+Researcher+%F0%9F%93%84;1st+Place+Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=GenAI+%26+ML+Engineer+%F0%9F%A7%A0;Computer+Vision+%F0%9F%94%AD;Full-Stack+Developer+%F0%9F%92%BB;RAG+%7C+LLMs+%7C+AI+Agents+%F0%9F%9A%80;Published+IEEE+Paper+%F0%9F%93%84)](https://git.io/typing-svg)
 
 <br/>
 
