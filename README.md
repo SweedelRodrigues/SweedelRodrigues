@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sweedel%20Rodrigues&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sweedel%20Rodrigues&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descAlignY=55&descSize=16" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+sees+the+world+%F0%9F%94%AD;3D+Reconstruction+%7C+YOLO+%7C+RAG;Full-Stack+%2B+Machine+Learning+%F0%9F%A7%A0;Published+IEEE+Researcher+%F0%9F%93%84;1st+Place+Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
@@ -22,11 +22,11 @@
 
 ```python
 class Sweedel:
-    role        = "AI/ML Engineer"
-    focus       = ["Computer Vision", "3D Reconstruction", "RAG"]
-    learning    = ["Multi-view Geometry", "System Design"]
+    role        = "GenAI & ML Engineer"
+    focus       = ["Generative AI", "Computer Vision", "Machine Learning"]
+    learning    = ["LLMs", "AI Agents", "System Design"]
     collab      = "Always open — let's build something cool 🚀"
-    fun_fact    = "I make machines see the world 👁️"
+    fun_fact    = "I build intelligent systems that can see, reason, and generate 👁️✨"
 ```
 
 <br clear="right"/>
@@ -58,6 +58,14 @@ class Sweedel:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
