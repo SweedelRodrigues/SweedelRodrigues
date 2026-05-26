@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/banner.png" width="100%" />
 
-<br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Published+IEEE+Paper+📄;GenAI+%26+ML+Engineer+🧠;Computer+Vision+🔭;Full-Stack+Developer+💻;RAG+%7C+LLMs+%7C+AI+Agents+🚀" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sweedel%20Rodrigues&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descAlignY=55&descSize=16" />
 
-</div>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=GenAI+%26+ML+Engineer+%F0%9F%A7%A0;Computer+Vision+%F0%9F%94%AD;Full-Stack+Developer+%F0%9F%92%BB;RAG+%7C+LLMs+%7C+AI+Agents+%F0%9F%9A%80;Published+IEEE+Paper+%F0%9F%93%84)](https://git.io/typing-svg)
+
+
+
+<br/> 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sweedelrodrigues.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sweedelrodrigues.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sweedel--rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sweedel-rodrigues)
