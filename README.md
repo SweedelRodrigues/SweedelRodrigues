@@ -104,7 +104,7 @@ Built a 3D reconstruction pipeline from multi-view images using geometric segmen
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SweedelRodrigues&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SweedelRodrigues&theme=tokyonight&hide_border=true&v=1"/>
 
 <br/>
 
