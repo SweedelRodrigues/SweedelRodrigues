@@ -98,10 +98,9 @@ Built a 3D reconstruction pipeline from multi-view images using geometric segmen
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 <br/>
 
