@@ -114,6 +114,16 @@ Built a 3D reconstruction pipeline from multi-view images using geometric segmen
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/SweedelRodrigues/SweedelRodrigues/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </div>
