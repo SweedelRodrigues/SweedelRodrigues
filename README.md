@@ -106,9 +106,6 @@ Built a 3D reconstruction pipeline from multi-view images using geometric segmen
 
 <img src="https://streak-stats.demolab.com/?user=SweedelRodrigues&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SweedelRodrigues&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
