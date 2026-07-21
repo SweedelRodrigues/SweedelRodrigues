@@ -96,16 +96,15 @@ Built a 3D reconstruction pipeline from multi-view images using geometric segmen
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SweedelRodrigues&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweedelRodrigues&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SweedelRodrigues&theme=tokyonight)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SweedelRodrigues&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 ---
 
