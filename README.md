@@ -29,8 +29,8 @@
 ```python
 class Sweedel:
     role        = "GenAI & ML Engineer"
-    focus       = ["Generative AI", "Computer Vision", "Machine Learning"]
-    learning    = ["LLMs", "AI Agents", "System Design"]
+    focus       = ["Generative AI", "Machine Learning", "MERN"]
+    learning    = ["LLMs", "AI Agents", "ML"]
     collab      = "Always open — let's build something cool 🚀"
     fun_fact    = "I build intelligent systems that can see, reason, and generate 👁️✨"
 ```
