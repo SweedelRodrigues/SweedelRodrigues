@@ -15,6 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sweedelrodrigues.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sweedelrodrigues.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sweedel--rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sweedel-rodrigues)
 [![GitHub](https://img.shields.io/badge/GitHub-SweedelRodrigues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SweedelRodrigues)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SweedelRodrigues-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SweedelRodrigues/)
 [![Email](https://img.shields.io/badge/Email-sweedel171%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweedel171@gmail.com)
 
 
