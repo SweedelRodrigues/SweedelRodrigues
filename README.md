@@ -14,8 +14,6 @@
   <a href="mailto:sweedel171@gmail.com"><img src="https://img.shields.io/badge/Email-sweedel171%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SweedelRodrigues&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-
 </div>
 
 <br/>
@@ -71,19 +69,36 @@ class Sweedel:
 
 **AI · ML · GenAI**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,keras" height="48"/>
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" />
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
 </p>
 
 <br/>
