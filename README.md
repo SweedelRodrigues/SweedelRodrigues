@@ -20,26 +20,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" />
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
 ### 💫 About Me
 
-```python
-class Sweedel:
-    role        = "GenAI & ML Engineer"
-    focus       = ["Generative AI", "Machine Learning", "MERN"]
-    learning    = ["LLMs", "AI Agents", "ML"]
-    collab      = "Always open — let's build something cool 🚀"
-    fun_fact    = "I build intelligent systems that can see, reason, and generate 👁️✨"
-```
+<table width="100%">
+<tr><td>
 
-</td>
-<td width="38%" align="center">
-<img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
-</td>
-</tr>
+&nbsp;
+> 🧠&nbsp;&nbsp;**Role** — GenAI & ML Engineer
+>
+> 🎯&nbsp;&nbsp;**Focus** — Generative AI · Machine Learning · MERN
+>
+> 📚&nbsp;&nbsp;**Currently Learning** — LLMs · AI Agents · ML
+>
+> 🤝&nbsp;&nbsp;**Collab** — Always open — let's build something cool 🚀
+>
+> ✨&nbsp;&nbsp;**Fun Fact** — I build intelligent systems that can see, reason, and generate 👁️
+&nbsp;
+
+</td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" />
