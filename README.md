@@ -62,11 +62,11 @@ class Sweedel:
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="48"/>
 
 <br/><br/>
 
-**AI / ML**
+**Machine Learning**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,sklearn" height="48"/>
 
