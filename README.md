@@ -1,31 +1,28 @@
 <div align="center">
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sweedel%20Rodrigues&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descAlignY=55&descSize=16" />
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=GenAI+%26+ML+Engineer+%F0%9F%A7%A0;Computer+Vision+%F0%9F%94%AD;Full-Stack+Developer+%F0%9F%92%BB;RAG+%7C+LLMs+%7C+AI+Agents+%F0%9F%9A%80;Published+IEEE+Paper+%F0%9F%93%84)](https://git.io/typing-svg)
 
+<br/>
 
-
-<br/> 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sweedelrodrigues.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sweedelrodrigues.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sweedel--rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sweedel-rodrigues)
-[![GitHub](https://img.shields.io/badge/GitHub-SweedelRodrigues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SweedelRodrigues)
-[![LeetCode](https://img.shields.io/badge/LeetCode-SweedelRodrigues-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SweedelRodrigues/)
-[![Email](https://img.shields.io/badge/Email-sweedel171%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweedel171@gmail.com)
-
+<p align="center">
+  <a href="https://sweedelrodrigues.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sweedelrodrigues.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sweedel-rodrigues"><img src="https://img.shields.io/badge/LinkedIn-sweedel--rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SweedelRodrigues"><img src="https://img.shields.io/badge/GitHub-SweedelRodrigues-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/SweedelRodrigues/"><img src="https://img.shields.io/badge/LeetCode-SweedelRodrigues-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:sweedel171@gmail.com"><img src="https://img.shields.io/badge/Email-sweedel171%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
----
+<br/>
 
-## 💫 About Me
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+### 💫 About Me
 
 ```python
 class Sweedel:
@@ -36,12 +33,20 @@ class Sweedel:
     fun_fact    = "I build intelligent systems that can see, reason, and generate 👁️✨"
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center">
+<img alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,15 +56,42 @@ class Sweedel:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Web · Deployment · Backend</b></summary>
+<br>
+<div align="center">
+
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+<div align="center">
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+</div>
+</details>
+
+<details open>
+<summary><b>AI / ML / GenAI</b></summary>
+<br>
+<div align="center">
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -73,9 +105,27 @@ class Sweedel:
 ![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Data Viz</b></summary>
+<br>
+<div align="center">
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>Tools & OS</b></summary>
+<br>
+<div align="center">
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -85,22 +135,32 @@ class Sweedel:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
+</details>
 
----
+<br/>
 
 ## 🧠 Experience
 
-**GREP 3D Reconstruction System** *(Computer Vision Intern · Sept 2025 – March 2026)*  
+<table>
+<tr>
+<td>
+
+**GREP 3D Reconstruction System**  
+*Computer Vision Intern · Sept 2025 – March 2026*
+
 Built a 3D reconstruction pipeline from multi-view images using geometric segmentation and Manhattan-world constraints.
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 <br/>
@@ -109,9 +169,7 @@ Built a 3D reconstruction pipeline from multi-view images using geometric segmen
 
 </div>
 
----
-
----
+<br/>
 
 ## 🐍 Contribution Snake
 
@@ -121,7 +179,7 @@ Built a 3D reconstruction pipeline from multi-view images using geometric segmen
 
 </div>
 
----
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
