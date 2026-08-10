@@ -129,12 +129,6 @@ class Sweedel:
 
 ## 📊 GitHub Stats
 
-div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SweedelRodrigues&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" />
 
 ## 🐍 Contribution Snake
