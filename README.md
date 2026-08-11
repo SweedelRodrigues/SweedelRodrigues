@@ -131,9 +131,16 @@ class Sweedel:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SweedelRodrigues&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SweedelRodrigues&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SweedelRodrigues&theme=tokyonight&hide_border=true&t=1753970000" height="180"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%25" />
 
 ## 🐍 Contribution Snake
 
