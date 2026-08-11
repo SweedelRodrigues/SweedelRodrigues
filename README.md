@@ -134,6 +134,7 @@ class Sweedel:
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SweedelRodrigues&theme=tokyonight" height="180"/>
 
 </div>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
