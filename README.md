@@ -129,8 +129,11 @@ class Sweedel:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SweedelRodrigues)](https://git.io/streak-stats)
+<div align="center">
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=SweedelRodrigues&theme=tokyonight" height="180"/>
+
+</div>
 ## 🐍 Contribution Snake
 
 <div align="center">
