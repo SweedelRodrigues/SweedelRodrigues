@@ -48,33 +48,7 @@ class Sweedel:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,php,html,flask,fastapi,firebase,vercel,render,mysql,postgres,mongodb,tensorflow,pytorch,keras,opencv,sklearn,git,github,postman,vscode,linux,windows" height="48"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="30"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,php,html,flask,fastapi,firebase,vercel,render,mysql,postgres,mongodb,tensorflow,pytorch,keras,opencv,sklearn,numpy,pandas,xgboost,catboost,spacy,nltk,langchain,huggingface,openai,gemini,llamaindex,transformers,chromadb,faiss,streamlit,gradio,git,github,postman,vscode,linux,windows,powershell&perline=15" />
 
 </div>
 
