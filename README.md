@@ -37,7 +37,7 @@ class Sweedel:
 
 </td>
 <td width="38%" align="center">
-<img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20%7C%20ML%20%7C%20GenAI&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=55" />
 </td>
 </tr>
 </table>
